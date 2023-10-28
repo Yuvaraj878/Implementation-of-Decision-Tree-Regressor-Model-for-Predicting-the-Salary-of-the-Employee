@@ -6,8 +6,6 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
-3. 
 ## Algorithm:
 
 1. Import the required libraries .
